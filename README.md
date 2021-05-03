@@ -1,7 +1,7 @@
 # NIBP Non Invasive Blood Pressure Measurement 
 Algorithm to calculated SBP from PPG and cuff pressure for a Ramp method 
 
-Markup :* Select PPG values during ramp 
+* Select PPG values during ramp 
 * Savgol filter the ppg signals. 
 * Find the troughs. 
 * Find the amplitude ratio of Dependent and Independent PPGs between these troughs.
